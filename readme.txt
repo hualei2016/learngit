@@ -1,3 +1,3 @@
 git is a distributed version control tool
-git is a free sw
+git is a free sw under GPL
 
