@@ -5,3 +5,4 @@ git tracks changes
 Creating a new branch is quick and simple
 Change to test no-ff
 This change is for an urgent bugfix
+This change is from another colleague -- see merge
